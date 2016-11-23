@@ -1,0 +1,15 @@
+.picture{
+    margin-top: 10px;
+    height: 200px!important;
+    width: 200px!important;
+    /*backface-visibility: hidden;*/
+    border: 1px solid black;
+    /*transform-origin: 50% 50% 0px;*/
+    /*transition: all 3s;*/
+}
+/*.hidden-side {*/
+    /*transform: rotateY( 0deg ) !important;*/
+/*}*/
+/*.front-side {*/
+    /*transform: rotateY( 180deg ) !important;*/
+/*}*/
